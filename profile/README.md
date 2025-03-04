@@ -22,9 +22,7 @@ Because light attracts bugs! 🦟💻
 
 <div id="toc">
   <ul style="list-style: none">
-    <summary>
       <h2> 🎯 Stay Tuned! </h2>
-    </summary>
   </ul>
 </div> 
 The best is yet to come—new repositories dropping soon!  
