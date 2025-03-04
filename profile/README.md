@@ -1,4 +1,4 @@
-***🚀 InstanceReady***
+*🚀 InstanceReady*
 
 **Welcome to InstanceReady – where creativity meets code!**  
 
