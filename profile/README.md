@@ -1,8 +1,8 @@
-# 🚀 InstanceReady  
+***🚀 InstanceReady***
 
 **Welcome to InstanceReady – where creativity meets code!**  
 
-## 🌟 About  
+**About me**
 InstanceReady is my personal space for experimenting with cool, fun, and innovative projects. From UI/UX magic to wild side projects, this is where ideas come to life!  
 
 ## 🔧 What's Coming?  
