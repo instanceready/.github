@@ -20,11 +20,17 @@ InstanceReady is my personal space for experimenting with cool, fun, and innovat
 Why do programmers prefer dark mode?  
 Because light attracts bugs! 🦟💻  
 
-## 🎯 Stay Tuned!  
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2> 🎯 Stay Tuned! </h2>
+    </summary>
+  </ul>
+</div> 
 The best is yet to come—new repositories dropping soon!  
 
 📬 Connect with me: [@YuvarajVodiboina](https://github.com/YuvarajVodiboina)  
 
----
+
 
 💡 _"Code, create, break, fix, repeat!"_
