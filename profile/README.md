@@ -6,25 +6,21 @@
   </ul>
 </div>
 
-**Welcome to InstanceReady – where creativity meets code!**  
+Welcome to InstanceReady – where creativity meets code!
 
-## About me
+**About me**
 InstanceReady is my personal space for experimenting with cool, fun, and innovative projects. From UI/UX magic to wild side projects, this is where ideas come to life!  
 
-## 🔧 What's Coming?  
+**🔧 What's Coming?**
 ✨ Unique UI/UX experiments  
 🚀 Exciting web & app projects  
 🐞 Bugs that I'll *definitely* fix (or call them "features" 😎)  
 
-## 😂 Bug of the Day  
+**😂 Bug of the Day**  
 Why do programmers prefer dark mode?  
 Because light attracts bugs! 🦟💻  
 
-<div id="toc">
-  <ul style="list-style: none">
-      <h2> 🎯 Stay Tuned! </h2>
-  </ul>
-</div> 
+**🎯 Stay Tuned!**
 The best is yet to come—new repositories dropping soon!  
 
 📬 Connect with me: [@YuvarajVodiboina](https://github.com/YuvarajVodiboina)  
