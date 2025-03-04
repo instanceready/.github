@@ -23,7 +23,7 @@ Because light attracts bugs! 🦟💻
 ## 🎯 Stay Tuned!  
 The best is yet to come—new repositories dropping soon!  
 
-📬 Connect with me: [@YuvarajVodiboina](https://github.com/YuvarajVodiboina)  
+📬 Connect with me: [@YuvarajVodiboina](https://github.com/YuvaRajAF)  
 
 <br />
 
