@@ -1,8 +1,14 @@
-*🚀 InstanceReady*
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> 🚀 InstanceReady</h1>
+    </summary>
+  </ul>
+</div>
 
 **Welcome to InstanceReady – where creativity meets code!**  
 
-**About me**
+## About me
 InstanceReady is my personal space for experimenting with cool, fun, and innovative projects. From UI/UX magic to wild side projects, this is where ideas come to life!  
 
 ## 🔧 What's Coming?  
